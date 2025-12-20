@@ -33,7 +33,7 @@ img2.src = 'images/22.png';
 t2.appendChild(img2);
 img2.classList.add('image_1');
 img2.style.position = 'relative';
-img2.style.left = '48%';
+img2.style.left = '55%';
 img2.style.border = 'solid';
 img2.style.borderColor = 'yellow';
 img2.style.borderRadius = '4px';
